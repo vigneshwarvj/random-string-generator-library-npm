@@ -5,9 +5,9 @@
   "main": "./src/random-string-generator.js",
   "module": "./src/random-string-generator.mjs",
   "types": "./src/random-string-generator.d.ts",
-  "homepage": "https://github.com/vigneshwarvj/random-string-generator-npm-library#readme",
+  "homepage": "https://github.com/vigneshwarvj/random-string-generator-library-npm#readme",
   "repository": {
-    "url": "https://github.com/vigneshwarvj/random-string-generator-npm-library"
+    "url": "https://github.com/vigneshwarvj/random-string-generator-library-npm"
   },
   "scripts": {
     "test": "jest"

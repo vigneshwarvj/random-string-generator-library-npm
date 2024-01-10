@@ -1,6 +1,6 @@
 // random-string-generator.js
 
-// Generate a random string of a specified length
+// Generate a random string of a specified length.
 function generateRandomString(length) {
     const charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     let result = '';

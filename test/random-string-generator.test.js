@@ -8,6 +8,7 @@ describe('generateRandomString', () => {
     expect(result).toHaveLength(length);
   });
 
+  
   test('it should generate a different string on each call', () => {
     const result1 = generateRandomString(8);
     const result2 = generateRandomString(8);
